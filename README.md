@@ -1,4 +1,4 @@
-# Hybird_images
+# Hybrid_images
 We will write an image convolution function (image filtering) and use it to create hybrid images ! The
 technique was invented by Oliva, Torralba, and Schyns in 2006, and published in a paper at
 SIGGRAPH . High frequency image content tends to dominate perception but, at a distance, only low
@@ -6,7 +6,7 @@ frequency (smooth) content is perceived. By blending high and low frequency cont
 hybrid image that is perceived differently at different distances.
 
 For the full requirements:  Check "01_CIE552_Proj_HybridImage" 
-For the full code documentation and explanation:  Check Project Report
+For the full code documentation and explanation:  Check "Project Report"
 
 To run the project and get the results:
 1. Run helpers.py
