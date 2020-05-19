@@ -14,6 +14,7 @@ To run the project and get the results:
 3. Run proj1_part2.py
 
 Download the data from "data.zip"
+
 Download the results (different hybird images) from "All results.zip"
 
 A sample from the results:
