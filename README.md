@@ -16,4 +16,6 @@ To run the project and get the results:
 Download the data from "data.zip"
 Download the results (different hybird images) from "All results.zip"
 
-You can check a sample from the results in "Trump_Putin_Sample"
+A sample from the results:
+
+![Trump-Butin](https://github.com/SaraElbesomy4/Hybird_images/blob/master/Trump_Putin_Sample.jpg)
